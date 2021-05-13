@@ -1,5 +1,5 @@
 #### Hi there! 👋
-### I'm Javier a Frontend Web Developer
+### I'm Javier, a Frontend Web Developer
 
 <!--
 **xavirepi/xavirepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Currently looking for an opportunity as a Junior Frontend Web Developer
+#### Currently looking for a job opportunity as a Junior Frontend Web Developer
 
 #### My stack:
 
