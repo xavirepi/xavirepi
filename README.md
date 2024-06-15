@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <br/>
 <samp>
-<p> 🌍 Outside GitHub: <a href="https://www.linkedin.com/in/javier-repilado-frontend-developer/">Linkedin</a> | <a href="https://www.codewars.com/users/JavierRL90">Codewars</a></p>
+<p> 🌍 Outside GitHub: <a href="https://www.linkedin.com/in/javier-repilado-fullstack-developer/">Linkedin</a> | <a href="https://www.codewars.com/users/JavierRL90">Codewars</a></p>
 
 
